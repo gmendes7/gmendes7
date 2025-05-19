@@ -1,51 +1,29 @@
-<h1 align="center">Bem-vindo ao perfil do GitHub</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=1BC6F7&center=true&vCenter=true&width=435&lines=Desenvolvimento+e+inovação+constante;Tecnologia+como+ferramenta+de+transformação;Explorando+novas+ideias+e+soluções+criativas" alt="Typing SVG" />
-</p>
+# 👻 Olá, eu sou o schjneiderr
 
----
+🎓 Estudante de Ciência da Computação | Dono da [@trinitytecnologia](https://github.com/trinitytecnologia)  
+🌍 Fluente em inglês | Apaixonado por desenvolvimento e tecnologia  
+💻 Trabalhando com: JavaScript, TypeScript, Python, C#, CSS  
+📬 Contato: **schjneidermendes@gmail.com**
 
-### 🚀 Sobre
+### 🚀 Projetos em destaque
 
-Profissional em constante evolução, com dedicação diária aos estudos, trabalho e desenvolvimento pessoal. Com foco em tecnologia e soluções digitais, atua de forma consistente no aprimoramento de habilidades e na entrega de resultados eficientes.
+- [`corpo-em-equilibrio-digital`](https://github.com/gmendes7/corpo-em-equilibrio-digital)
+- [`mindful-flow-routine`](https://github.com/gmendes7/mindful-flow-routine)
+- [`trinity-digital-canvas`](https://github.com/gmendes7/trinity-digital-canvas)
+- [`schneider-mendes-portfolio-glow`](https://github.com/gmendes7/schneider-mendes-portfolio-glow)
+- [`trinitytecnologia-`](https://github.com/gmendes7/trinitytecnologia-)
+- [`schjneider`](https://github.com/gmendes7/schjneider)
 
-- ⏰ Rotina organizada para alta performance
-- 💼 Envolvido com desenvolvimento e tecnologias modernas
-- 🧠 Curioso por natureza e comprometido com o aprendizado contínuo
+### 🛠️ Tecnologias
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=csharp)
+![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3)
 
----
-
-### 💻 Tecnologias em desenvolvimento
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-</div>
-
----
-
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=g.mendesl&show_icons=true&theme=algolia&count_private=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g.mendesl&layout=compact&langs_count=7&theme=algolia" />
-</div>
-
----
-
-### 🏆 Conquistas
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=g.mendesl&theme=algolia&no-frame=true&no-bg=true&margin-w=4" />
-</p>
-
----
-
-
----
-
+### 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gmendes7&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gmendes7&layout=compact&theme=tokyonight)
 ### 🌐 Contato
 
 - Instagram pessoal: [@g.mendesl](https://instagram.com/g.mendesl)  
@@ -54,4 +32,3 @@ Profissional em constante evolução, com dedicação diária aos estudos, traba
 
 ---
 
-<p align="center"><i>Este perfil é mantido com dedicação e atenção aos detalhes. A busca por excelência e inovação é constante.</i></p>
