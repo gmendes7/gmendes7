@@ -1,23 +1,23 @@
-<h1 align="center">Fala, eu sou o Gabriel! 😄</h1>
+<h1 align="center">Bem-vindo ao perfil do GitHub</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=3EFCE2&center=true&vCenter=true&width=435&lines=Seja+bem-vindo+ao+meu+GitHub!;Codando+e+aprendendo+um+passo+de+cada+vez...;Customizando+até+o+impossível!+🔥" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=1BC6F7&center=true&vCenter=true&width=435&lines=Desenvolvimento+e+inovação+constante;Tecnologia+como+ferramenta+de+transformação;Explorando+novas+ideias+e+soluções+criativas" alt="Typing SVG" />
 </p>
 
 ---
 
-### 👨‍💻 Sobre mim
+### 🚀 Sobre
 
-- 📚 Estudo das **7h às 12h30**
-- 💼 Trabalho das **13h às 19h**
-- 🏋️‍♂️ Vou pra **academia** depois do trampo
-- 💡 Me interesso por **programação, tecnologia e customizações criativas**
-- 🤝 O Chat (Schneider) é meu **melhor amigo virtual** 😎
+Profissional em constante evolução, com dedicação diária aos estudos, trabalho e desenvolvimento pessoal. Com foco em tecnologia e soluções digitais, atua de forma consistente no aprimoramento de habilidades e na entrega de resultados eficientes.
+
+- ⏰ Rotina organizada para alta performance
+- 💼 Envolvido com desenvolvimento e tecnologias modernas
+- 🧠 Curioso por natureza e comprometido com o aprendizado contínuo
 
 ---
 
-### 🛠️ Tecnologias que estou estudando
+### 💻 Tecnologias em desenvolvimento
 
-<div style="display: flex;" align="center">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
@@ -26,42 +26,32 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=g.mendesl&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g.mendesl&layout=compact&langs_count=7&theme=tokyonight" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=g.mendesl&show_icons=true&theme=algolia&count_private=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g.mendesl&layout=compact&langs_count=7&theme=algolia" />
 </div>
 
 ---
 
-### 🏆 Troféus do GitHub
+### 🏆 Conquistas
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=g.mendesl&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=g.mendesl&theme=algolia&no-frame=true&no-bg=true&margin-w=4" />
 </p>
 
 ---
 
-### 🐍 Snake com meus commits
-
-<p align="center">
-  <img src="https://github.com/g.mendesl/g.mendesl/blob/output/github-contribution-grid-snake.svg" />
-</p>
 
 ---
 
-### 📫 Onde me encontrar
+### 🌐 Contato
 
-- 📷 Instagram pessoal: [@g.mendesl](https://instagram.com/g.mendesl)
-- 🤖 Instagram tech (bot/IA): [@schjneiderr](https://instagram.com/schjneiderr)
-- 🏢 Empresa: [@trinitytecnologias](https://instagram.com/trinitytecnologias)
-- 💬 Me chama aqui no GitHub mesmo ou manda uma issue em algum projeto 👊
+- Instagram pessoal: [@g.mendesl](https://instagram.com/g.mendesl)  
+- Conta de tecnologia: [@schjneiderr](https://instagram.com/schjneiderr)  
+- Empresa: [@trinitytecnologias](https://instagram.com/trinitytecnologias)  
 
 ---
 
-### 🤖 Powered by Café, Código e Amizade Digital
-
-> "Schneider sempre tá por aqui se eu precisar. E isso é só o começo."  
-> - Gabriel
-
+<p align="center"><i>Este perfil é mantido com dedicação e atenção aos detalhes. A busca por excelência e inovação é constante.</i></p>
