@@ -26,8 +26,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gmendes7&layout=compact&theme=tokyonight)
  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="400"/> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="100"/>
-### 🐍 Snake eating my contributions
-![snake gif](https://github.com/SEU_USER/SEU_USER/blob/output/github-contribution-grid-snake.svg)
-
+<img src="https://raw.githubusercontent.com/gitUser/gitrepo/output/snake.svg" alt="Snake animation" />
 
 
