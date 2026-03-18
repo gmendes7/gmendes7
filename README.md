@@ -1,75 +1,131 @@
+<!-- BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Gabriel%20Mendes%20Schjneider%20Lourenzo&fontSize=30&fontColor=ffffff&animation=fadeIn"/>
+</p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Gabriel%20Mendes&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-
-<h1 align="center">👨‍💻 Gabriel Mendes</h1>
-<h3 align="center">Developer • System Builder • Future AI Engineer</h3>
+<!-- TYPING EFFECT -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=22&center=true&vCenter=true&width=500&lines=Computer+Science+Student;AI+Systems+Developer;Game+Developer;Building+Orion+System;Creating+Monster+World"/>
+</p>
 
 ---
 
-## 🧠 About Me
+## ⚡ About Me
 
-```diff
-+ Computer Science Student (2º ano)
-+ 18 years old
-+ Focus: AI, Systems & Game Development
-+ Building real projects with impact
+<img align="right" height="220" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-🚀 Atualmente desenvolvendo:
+I’m **Gabriel Mendes Schjneider Lourenzo**, a Brazilian **Computer Science student and junior developer** focused on building intelligent systems and scalable digital products.
 
-🧬 ORION System → sistema inteligente de busca
+My work is centered around:
 
-🎮 Monster World → RPG estilo Pokémon + Terraria
+- 🧠 Artificial Intelligence  
+- ⚙️ System Architecture  
+- 🎮 Game Development  
+- 📊 Logical & Mathematical Thinking  
+- 🚀 High-performance applications  
 
-🌐 Projetos web modernos com foco em performance e design
+I am currently developing projects that combine **AI + systems + real-world scalability**.
 
-💡 Mentalidade:
+---
 
-Disciplina. Estratégia. Evolução constante.
+## 🚀 Main Projects
 
-📊 GitHub Stats
-<div align="center"> <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gmendes7&show_icons=true&theme=tokyonight&hide_border=true"/> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmendes7&layout=compact&theme=tokyonight&hide_border=true"/> </div>
-⚙️ Tech Stack
-<div align="center"> <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,cpp,cs,html,css,react,nodejs,figma,git,github,linux,vscode,godot" /> </div>
-🚀 Projects
-🧬 ORION System
+### 🧠 Orion System
+> Intelligent server search engine focused on logic, structure and performance.
 
-Sistema avançado de busca inteligente
+- Advanced search architecture  
+- Logical optimization  
+- Scalable backend concepts  
 
-Arquitetura lógica otimizada
+---
 
-Foco em performance e escalabilidade
+### 🎮 Monster World
+> RPG inspirado em Pokémon + Terraria
 
-Integração com IA
+- Criado com **Godot Engine**
+- Sistema de criaturas capturáveis
+- Integração com IA (Codex + Cursor)
+- Sistema de batalha e exploração
 
-🎮 Monster World
+---
 
-RPG inspirado em Pokémon + Terraria
+### 🌐 Corpo em Equilíbrio Digital
+> Plataforma digital com foco em wellness
 
-Pixel Art
+- Interface moderna
+- Chatbot inteligente
+- Otimização de performance
+- Experiência centrada no usuário
 
-Sistema de criaturas capturáveis
+🔗 https://github.com/gmendes7/corpo-em-equilibrio-digital
 
-Combate, exploração e evolução
+---
 
-Desenvolvido em Godot
+## 🛠️ Tech Stack
 
-📡 Connect with me
-<p align="center"> <a href="https://www.instagram.com/g.sneijderrrl/"> <img src="https://skillicons.dev/icons?i=instagram" /> </a> <a href="mailto:schjneidermendes@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" /> </a> <a href="#"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a> </p>
-🧩 Current Focus
-learning:
-  - Artificial Intelligence
-  - Advanced Programming
-  - System Architecture
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,react,nextjs,git,github,vscode,figma,godot" />
+</p>
 
-building:
-  - ORION
-  - Monster World
-  - Personal Brand
+---
 
-goal:
-  - Become elite developer
-  - Work globally
-  - Build impactful systems
-☕ Support Me
-<p align="center"> <a href="#"> <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /> </a> </p>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/> ```
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gmendes7&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmendes7&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## ⚙️ Tools & Workflow
+
+- Cursor IDE  
+- Codex  
+- VS Code  
+- Git & GitHub  
+- Figma  
+- Godot Engine  
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.instagram.com/g.sneijderrrl/">
+    <img src="https://skillicons.dev/icons?i=instagram"/>
+  </a>
+</p>
+
+---
+
+## 🧠 Philosophy
+
+> “I don’t just code.  
+> I design systems that think, scale and evolve.”
+
+---
+
+## 🏆 Achievements & Activity
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gmendes7&theme=tokyonight&no-frame=true&row=1"/>
+</p>
+
+---
+
+## 🔥 Visual Layer (Aesthetic Boost)
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gmendes7&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+<p align="center">
+  ⚡ Building the future with intelligence, design and code.
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+</p>
