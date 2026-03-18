@@ -1,163 +1,75 @@
-<h1 align="center">Gabriel Mendes Schjneider Lourenzo</h1>
+README PROFILE — Gabriel Mendes
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Gabriel%20Mendes&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
-<p align="center">
-Computer Science Student • AI & Systems Developer • Builder
-</p>
-
-<p align="center">
-🇧🇷 Brazil • Future Global Technologist
-</p>
+<h1 align="center">👨‍💻 Gabriel Mendes</h1>
+<h3 align="center">Developer • System Builder • Future AI Engineer</h3>
 
 ---
 
-# ✦ About Me
+## 🧠 About Me
 
-Hello, my name is **Gabriel Mendes Schjneider Lourenzo**.
+```diff
++ Computer Science Student (2º ano)
++ 18 years old
++ Focus: AI, Systems & Game Development
++ Building real projects with impact
 
-I am a **Computer Science student and junior developer from Brazil**, passionate about building intelligent systems, games, and scalable digital platforms.
+🚀 Atualmente desenvolvendo:
 
-My main interests include:
+🧬 ORION System → sistema inteligente de busca
 
-• Artificial Intelligence  
-• Software Architecture  
-• System Design  
-• Game Development  
-• High-performance platforms  
-• Logic and mathematical problem solving  
+🎮 Monster World → RPG estilo Pokémon + Terraria
 
-Currently I am focused on creating **innovative technology projects**, learning advanced engineering concepts, and building systems that can scale globally.
+🌐 Projetos web modernos com foco em performance e design
 
----
+💡 Mentalidade:
 
-# ✦ Current Focus
+Disciplina. Estratégia. Evolução constante.
 
-• Building intelligent search systems  
-• Game development with AI assistance  
-• Creating scalable platforms and tools  
-• Improving software architecture and engineering practices  
-• Studying advanced programming and mathematics  
+📊 GitHub Stats
+<div align="center"> <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gmendes7&show_icons=true&theme=tokyonight&hide_border=true"/> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmendes7&layout=compact&theme=tokyonight&hide_border=true"/> </div>
+⚙️ Tech Stack
+<div align="center"> <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,cpp,cs,html,css,react,nodejs,figma,git,github,linux,vscode,godot" /> </div>
+🚀 Projects
+🧬 ORION System
 
----
+Sistema avançado de busca inteligente
 
-# ✦ Main Projects
+Arquitetura lógica otimizada
 
-## Orion System
-An **intelligent server search system** designed to efficiently locate and organize servers using logical and algorithmic approaches.
+Foco em performance e escalabilidade
 
-Main focus:
-- intelligent search
-- system architecture
-- performance optimization
+Integração com IA
 
----
+🎮 Monster World
 
-## AI Game Development Project
+RPG inspirado em Pokémon + Terraria
 
-Development of a **game built with AI assistance using Codex and Cursor IDE**, focusing on:
+Pixel Art
 
-- game mechanics
-- portal systems
-- interactive environments
-- scalable code architecture
-- procedural systems
+Sistema de criaturas capturáveis
 
----
+Combate, exploração e evolução
 
-## Corpo em Equilíbrio Digital
+Desenvolvido em Godot
 
-A **digital wellness platform** designed to provide online services and intelligent support.
+📡 Connect with me
+<p align="center"> <a href="https://www.instagram.com/g.sneijderrrl/"> <img src="https://skillicons.dev/icons?i=instagram" /> </a> <a href="mailto:schjneidermendes@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" /> </a> <a href="#"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a> </p>
+🧩 Current Focus
+learning:
+  - Artificial Intelligence
+  - Advanced Programming
+  - System Architecture
 
-Features include:
+building:
+  - ORION
+  - Monster World
+  - Personal Brand
 
-- modern web design
-- chatbot integration
-- performance optimization
-- user-focused interface
-
-Repository:
-https://github.com/gmendes7/corpo-em-equilibrio-digital
-
----
-
-# ✦ Technologies & Tools
-
-### Languages
-
-- Python
-- JavaScript
-- TypeScript
-- SQL
-
-### Frameworks & Libraries
-
-- React
-- Node.js
-- Next.js
-
-### Development Tools
-
-- Git
-- GitHub
-- Cursor IDE
-- Codex
-- VS Code
-- Figma
-
-### Other Skills
-
-- UI / UX Design
-- System Architecture
-- Problem Solving
-- Algorithmic Thinking
-
----
-
-# ✦ Design & Development
-
-Besides programming, I also work with **interface and product design**, creating systems that are not only functional but also visually appealing.
-
-Tools used for design:
-
-- Figma
-- modern UI frameworks
-- aesthetic layouts
-
----
-
-# ✦ Goals
-
-My long-term goals include:
-
-• Building impactful technology products  
-• Working with advanced artificial intelligence systems  
-• Creating globally scalable platforms  
-• Contributing to innovative technological research  
-
----
-
-# ✦ Connect With Me
-
-Instagram  
-https://www.instagram.com/g.sneijderrrl/
-
----
-
-# ✦ GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=gmendes7&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmendes7&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# ✦ Final Message
-
-Technology is not just about code.
-
-It is about **creating systems that change how people interact with the world**.
-
-And that is what I aim to build.
+goal:
+  - Become elite developer
+  - Work globally
+  - Build impactful systems
+☕ Support Me
+<p align="center"> <a href="#"> <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /> </a> </p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/> ```
